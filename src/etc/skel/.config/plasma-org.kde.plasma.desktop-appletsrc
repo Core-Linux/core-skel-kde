@@ -33,7 +33,7 @@ DialogWidth=720
 
 [Containments][23][Applets][24][Configuration][General]
 favoritesPortedToKAstats=true
-icon=/usr/share/icons/eoslinux.png
+icon=/usr/share/icons/corelinux.png
 
 [Containments][23][Applets][24][Configuration][Shortcuts]
 global=Alt+F1
