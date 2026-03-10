@@ -157,8 +157,4 @@ plugin=org.kde.plasma.folder
 wallpaperplugin=org.kde.image
 
 [Containments][45][Wallpaper][org.kde.image][General]
-Image=file:///usr/share/wallpapers/Default/core.jpg
-
-[ScreenMapping]
-itemsOnDisabledScreens=
-screenMapping=desktop:/calamares.desktop,0,3c4a723e-ff17-407e-bf58-3347c47384bf
+Image=file:///usr/share/wallpapers/core-wallpapers/core.jpg
