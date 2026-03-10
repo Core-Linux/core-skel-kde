@@ -157,7 +157,7 @@ plugin=org.kde.plasma.folder
 wallpaperplugin=org.kde.image
 
 [Containments][45][Wallpaper][org.kde.image][General]
-Image=file:///usr/share/wallpapers/Default/eos.jpg
+Image=file:///usr/share/wallpapers/Default/core.jpg
 
 [ScreenMapping]
 itemsOnDisabledScreens=
